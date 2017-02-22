@@ -1,2 +1,2 @@
 # hello-world
-Test repositiry
+This ia a test of a commit message. 
